@@ -1,6 +1,6 @@
 {
   "name": "routes-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package is used to get all the routes of a express application",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Anubhavgupta18/routes-finder.git"
   },
-  "keywords": ["routes","api","express-routes","routes-finder"],
+  "keywords": [
+    "routes",
+    "api",
+    "express-routes",
+    "routes-finder"
+  ],
   "author": "anubhav_gupta_17",
   "license": "ISC",
   "bugs": {
