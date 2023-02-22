@@ -1,6 +1,6 @@
 {
   "name": "routes-finder",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "This package is used to get all the routes of a express application",
   "main": "index.js",
   "scripts": {
